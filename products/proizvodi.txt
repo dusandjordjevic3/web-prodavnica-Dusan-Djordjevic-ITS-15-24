@@ -1,0 +1,18 @@
+KATEGORIJA: Lopte
+
+1. Fudbalska lopta
+2. Košarkaška lopta
+3. Odbojkaška lopta
+
+KATEGORIJA: Dresovi
+
+1. Trening majica 1
+1. Trening majica 2
+1. Trening majica 3
+
+
+KATEGORIJA: Dodatna oprema
+
+1. Štitnici za noge
+2. Traka za glavu (headband)
+3. Pametni sat (smartwatch)
