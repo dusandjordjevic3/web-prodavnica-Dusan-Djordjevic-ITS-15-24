@@ -1,0 +1,29 @@
+Početna strana
+
+Početna strana predstavlja centralni deo sajta i sadrži atraktivan slajder sa promotivnim slikama sportske opreme, dresova i akcijskih ponuda.
+Posetioci mogu brzo da se upoznaju sa sadržajem prodavnice i najnovijim proizvodima.
+
+O nama
+
+Prodavnica je namenjena ljubiteljima sporta i nudi kvalitetnu opremu za različite sportske aktivnosti. Cilj je da kupcima obezbedi pouzdane proizvode po pristupačnim cenama.
+
+Proizvodi
+
+Na stranici „Proizvodi“ prikazana je ponuda sportske opreme organizovana po kategorijama. Korisnici mogu pregledati:
+
+Lopte za različite sportove
+Dresove i sportsku odeću
+Patike i obuću
+Fitnes opremu
+Sportsku dodatnu opremu
+
+Svaki proizvod sadrži sliku, naziv, opis i cenu.
+
+Kontakt
+
+Kontakt stranica omogućava korisnicima da stupe u kontakt sa prodavnicom putem kontakt forme.
+Takođe sadrži osnovne informacije kao što su adresa, broj telefona i email adresa.
+
+5. Buduća korpa i kupovina kroz WooCommerce
+
+U narednim fazama razvoja planirana je potpuna integracija WooCommerce sistema. Korisnici će moći da dodaju proizvode u korpu, upravljaju porudžbinama, vrše online kupovinu i koriste različite metode plaćanja. Ova funkcionalnost će omogućiti jednostavno i sigurno iskustvo kupovine direktno preko sajta.
