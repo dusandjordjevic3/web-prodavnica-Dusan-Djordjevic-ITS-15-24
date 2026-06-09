@@ -3,7 +3,7 @@
 ## Sportska prodavnica
  
 ## Tema prodavnice 
-Na primer: sportska oprema, lopte, garderoba
+Sportska oprema, lopte, garderoba
  
 ## Opis projekta 
 Ova web aplikacija predstavlja modernu sportsku prodavnicu razvijenu u WordPress-u uz korišćenje WooCommerce platforme. Omogućava pregled i kupovinu sportske opreme, odeće i obuće kroz intuitivan i responzivan korisnički interfejs.
